@@ -20,6 +20,6 @@ Considerando a proporção de desequilíbrio de classes, recomendamos medir a pr
 
 ## Sumário
 
-- [Análise Exploratória de Dados](#analise-eda)
+- [Análise Exploratória de Dados](#analise)
 
-- [Pre-Processamento dos dados](#pré-processamento)
+- [Pre-Processamento dos dados](#processamento)
