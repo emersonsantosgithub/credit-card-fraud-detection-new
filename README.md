@@ -17,3 +17,7 @@ As características `V1, V2, ..., V28` são os principais componentes obtidos co
 - A característica **Classe** é a variável de resposta e assume o valor 1 em caso de fraude e 0 em caso contrário.
 
 Considerando a proporção de desequilíbrio de classes, recomendamos medir a precisão usando a **Área sob a Curva de Precisão-Recall (AUPRC)**. A precisão da matriz de confusão não é significativa para a classificação desbalanceada.
+
+## Sumário
+
+- [Análise Exploratória de Dados](#Analise-exploratoria)
