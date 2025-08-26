@@ -20,4 +20,4 @@ Considerando a proporção de desequilíbrio de classes, recomendamos medir a pr
 
 ## Sumário
 
-- [Análise Exploratória de Dados](#Analise-exploratoria)
+- [Análise Exploratória de Dados](#analise-exploratoria)
